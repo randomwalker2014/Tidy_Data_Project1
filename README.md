@@ -20,6 +20,8 @@ For each record following information was provided in the dataset:
 
 The objective of this project was to tidy up the publicly available raw data set, aggregate data and generate a clean data set that can be used for further analysis and studies. 
 
+dataset resource link : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 The following related artifacts are included in this repo project
 
 * run_analysis.R - R script for cleaning the raw data files and generating a clean file
