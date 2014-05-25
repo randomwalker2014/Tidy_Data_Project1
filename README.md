@@ -13,12 +13,14 @@ For each record following information was provided in the dataset:
 * A 561-feature vector with time and frequency domain variables. 
 * Its activity label. 
 * An identifier of the subject
+
 * * *
+
 ### Objective
 
 The objective of this project was to tidy up the publicly available raw data set, aggregate data and generate a clean data set that can be used for further analysis and studies. 
 
-The following artifacts are included in this repo project
+The following related artifacts are included in this repo project
 
 * run_analysis.R - R script for cleaning the raw data files and generating a clean file
 
