@@ -1,4 +1,4 @@
-Getting and Cleaning Human Activity Recognition Data Project
+## Getting and Cleaning Human Activity Recognition Data Project
 ========================================================
 ### Introduction
 

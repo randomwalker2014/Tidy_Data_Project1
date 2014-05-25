@@ -1,4 +1,4 @@
-Tidy data set description
+## Tidy data set description
 ========================================================
 ### Introduction
 
@@ -109,6 +109,9 @@ A listing of all variables in the data set is provided below
 
 As a reference, additional details about the data type with sample values is provided for the 69 variables below
 
+
+```{r}
+
  $ subject.id               : int  1 2 3 4 5 6 7 8 9 10 ...
  $ activity.id              : num  6 6 6 6 6 6 6 6 6 6 ...
  $ activity.label           : Factor w/ 6 levels "LAYING","SITTING",..
@@ -179,4 +182,5 @@ As a reference, additional details about the data type with sample values is pro
  $ fBodyBodyGyroJerkMag.mean: num  -0.942 -0.99 -0.984 -0.984 -0.985 ...
  $ fBodyBodyGyroJerkMag.std : num  -0.933 -0.989 -0.983 -0.983 -0.983 ...
 
+```
 
